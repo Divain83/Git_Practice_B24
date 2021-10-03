@@ -2,8 +2,8 @@ package setup;
 
 public class Fourth {
 
-    // this is in TC002 branch
+    // new one instead deleted
 
-    // random text
+    // something wrong
 
 }
